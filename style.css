@@ -1,0 +1,18 @@
+.bra{
+    width: 1350px;
+    height: 700px;
+
+}
+
+.sit{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.subtex{
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 90px;
+    right: 510px;
+}
